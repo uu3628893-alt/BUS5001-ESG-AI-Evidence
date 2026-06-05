@@ -1,7 +1,0 @@
-Rule 1: If message contains "leak" or "water", assign Facilities / Water Waste, High urgency.
-
-Rule 2: If message contains "blocked entrance" or "accessible", assign Accessibility, High urgency.
-
-Rule 3: If message contains "supplier" or "sustainability policy", assign Procurement / ESG, Medium urgency.
-
-Rule 4: If no keyword is found, assign Unknown, Medium urgency, ESG Operations team.
